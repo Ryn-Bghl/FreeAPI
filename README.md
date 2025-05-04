@@ -9,6 +9,5 @@ You just have to take any reddit url and add at the end .json and you got all th
 
 ## Wordpress API
 You just have to take a website made with wordpress and add this the the end /wp-json/wp/v2/
-
 #### Exemple
 https://www.uptevia.com/wp-json/wp/v2/
