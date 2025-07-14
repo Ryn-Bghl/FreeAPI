@@ -14,7 +14,7 @@ You just have to take any reddit url and add at the end .json and you got all th
 
 You just have to take a website made with wordpress and add this the the end /wp-json/wp/v2/
 
-### Exemple
+### Wordpress API Example
 
 <https://www.uptevia.com/wp-json/wp/v2/>
 
@@ -22,6 +22,15 @@ You just have to take a website made with wordpress and add this the the end /wp
 
 IdentIcons generator with a lot of styles and totaly free
 
-### Example
+### DiceBear API Example
 
 <https://www.dicebear.com/styles/>
+
+## IpAPI
+
+Get your public IP address in JSON format with all the information with it.
+Like your country, city, latitude, longitude, etc.
+
+### IpAPI Example
+
+<https://ipapi.co/json/>
