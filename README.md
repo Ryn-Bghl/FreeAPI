@@ -1,6 +1,6 @@
 # FreeAPI
 
-README file with all the Free API that i know, i will use in the future
+README file with all the Free API (public and no auth required) that i know, i will use in the future
 
 ## PokeAPI
 
