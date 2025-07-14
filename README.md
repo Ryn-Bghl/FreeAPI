@@ -1,36 +1,32 @@
-# FreeAPI
+# Free API
 
-README file with all the Free API (public and no auth required) that i know, i will use in the future
+A list of free APIs that I know, that I will use in the future
 
-## PokeAPI
+### PokeAPI
 
-[PokeAPI](https://pokeapi.co) is a free api that have all the information about all the pokemon lore
+* [PokeAPI](https://pokeapi.co) - all the information about all the pokemon lore
 
-## Reddit API
+### Reddit API
 
-You just have to take any reddit url and add at the end .json and you got all the data of the current thread
+* take any reddit url and add `.json` at the end to get all the data of the current thread
 
-## Wordpress API
+### Wordpress API
 
-You just have to take a website made with wordpress and add this the the end /wp-json/wp/v2/
+* take a website made with wordpress and add `/wp-json/wp/v2/` at the end
 
-### Wordpress API Example
+#### Wordpress API Example
 
-<https://www.uptevia.com/wp-json/wp/v2/>
+* <https://www.uptevia.com/wp-json/wp/v2/>
 
-## DiceBear API
+### DiceBear API
 
-IdentIcons generator with a lot of styles and totaly free
+* IdentIcons generator with a lot of styles and totaly free
 
-### DiceBear API Example
+#### DiceBear API Example
 
-<https://www.dicebear.com/styles/>
+* <https://www.dicebear.com/styles/>
 
-## IpAPI
+### IpAPI
 
-Get your public IP address in JSON format with all the information with it.
-Like your country, city, latitude, longitude, etc.
-
-### IpAPI Example
-
-<https://ipapi.co/json/>
+* get your public IP address in JSON format with all the information with it
+* example: <https://ipapi.co/json/>
